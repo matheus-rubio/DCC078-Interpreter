@@ -2,8 +2,8 @@
 
 ## Diagrama de classes
 
-### Mediator
+### Interpreter
 
 <p align="center">
-  <img src="./Diagrama/Mediator.jpg" style="width: 600px" alt="Mediator">
+  <img src="./Diagrama/Interpreter.jpg" style="width: 700px" alt="Interpreter">
 </p>
